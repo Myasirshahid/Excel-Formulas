@@ -1,4 +1,4 @@
-In this repository data analytics by using excel in which work on differnt excel functions with formulas.
+In this repository startin working as data analyst by using excel in which work on differnt excel functions with formulas.
 Vlookup.  Formula is  = VLOOKUP(B10,B4:C8,2,FALSE)
 IF in Vlookup.  Formula is IF(E23="","",VLOOKUP(E23,$E$17:$F$21,2,FALSE))
 IF Error in Vlookup.  Formula is IFERROR(VLOOKUP(E37,$E$31:$F$35,2,FALSE),"")  and  IFERROR(VLOOKUP(E37,$E$31:$F$35,2,FALSE),"NOT FOUND") (if need ant print message).
